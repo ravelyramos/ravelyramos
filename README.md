@@ -49,7 +49,7 @@
 
 <br>
 
-## 👨🏻‍💼 &nbsp;Connect with Me
+## 👨🏻‍💼 &nbsp;Contate-me
 
 <p align="left">
  
