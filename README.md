@@ -10,7 +10,7 @@
 
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas. ;
 
-- 📬 Se você quiser enviar uma mesagem. ravelyramos828@gmail.com
+- 📬 Entre em contato. ravelyramos828@gmail.com
 
 
 <br>
