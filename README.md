@@ -57,12 +57,12 @@
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/ravelyramos"/> 
  </a>
 
- <a href="mailto:ravelyramos828@gmail.com" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:ravelyramos828@gmail.com"/> 
+ <a href="mailto:ravelypro30@gmail.com" alt="Gmail">
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:ravelypro30@gmail.com"/> 
  </a>
  
- <a href="https://www.ravely.com.br/" alt="Portfolio">
-  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.ravely.com.br/"/>
+ <a href="https://www.goocode.com.br/" alt="Portfolio">
+  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.goocode.com.br/"/>
  </a>
 
  </p>
