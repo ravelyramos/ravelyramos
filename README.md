@@ -11,7 +11,7 @@
  
 <br/>
 
- <img align="center">Sobre mim
+ <p align="center">Sobre mim
 
 - 💻 Sou Desenvolvedor Front-End;
 
@@ -20,7 +20,7 @@
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas. ;
 
 - 📬 Entre em contato. ravelypro30@gmail.com
-
+<p/>
 
 <br>
 
