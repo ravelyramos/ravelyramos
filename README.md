@@ -11,7 +11,7 @@
  
 <br/>
 
-## &nbsp; <img src="oculos.gif"/> align="center"> &nbsp;Sobre mim
+ <img align="center">Sobre mim
 
 - 💻 Sou Desenvolvedor Front-End;
 
