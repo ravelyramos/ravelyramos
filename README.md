@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<h1 align="left">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
+<h1 align="center">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
 
 ## &nbsp; <img src="oculos.gif" width="30" align="center"> &nbsp;Sobre mim
 
