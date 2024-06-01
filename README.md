@@ -1,5 +1,5 @@
 
-![Design sem nome](https://github.com/ravelyramos/ravelyramos/assets/141534025/e0b28177-f705-48ea-b97d-30596c808c19)
+![Design sem nome (1)](https://github.com/ravelyramos/ravelyramos/assets/141534025/30fbbd18-eedd-40b6-a6e4-a9d569823115)
 
 <h1 align="left">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
 
