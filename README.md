@@ -8,6 +8,8 @@
 <br/>
 
 <h1 align="center">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
+ 
+<br/>
 
 ## &nbsp; <img src="oculos.gif" width="30" align="center"> &nbsp;Sobre mim
 
