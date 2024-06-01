@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://github.com/ravelyramos/ravelyramos/assets/141534025/30fbbd18-eedd-40b6-a6e4-a9d569823115" />
+![Design sem nome (2)](https://github.com/ravelyramos/ravelyramos/assets/141534025/537bad7c-1afe-4a68-a802-0cee891fc5c2)
 
 <h1 align="left">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
 
