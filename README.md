@@ -1,11 +1,11 @@
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/ravelyramos/ravelyramos/assets/141534025/537bad7c-1afe-4a68-a802-0cee891fc5c2" />
 
-<br/>
+<br>
 
-<br/>
+<br>
 
-<br/>
+<br>
 
 <h1 align="center">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
  
