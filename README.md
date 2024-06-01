@@ -26,7 +26,7 @@
 
 ## <img src="gato.gif" width="50" align="center"> &nbsp;Tec satack
 
-<div align="left">
+<div align="center">
  <p>
     <a href='https://html.com/'>
       <img src="https://skillicons.dev/icons?i=html"/>
