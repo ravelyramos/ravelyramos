@@ -1,66 +1,56 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/ravelyramos/ravelyramos/assets/141534025/537bad7c-1afe-4a68-a802-0cee891fc5c2" />
-
-<br>
-
-<br>
-
-<br>
-
-<h1 align="center">Oi, <img src="Terra.gif" width="30"> Eu sou Ravely Ramos
- 
-<br/>
-
- <p align="center">Sobre mim
-
-- 💻 Sou Desenvolvedor Front-End;
-
-- 🚀 Meu portfólio **[ goocode.com.br](https://www.goocode.com.br/)**;
-
-- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas. ;
-
-- 📬 Entre em contato. ravelypro30@gmail.com
-<p/>
-
-<br>
-
-## <img src="gato.gif" width="50" align="center"> &nbsp;Tec satack
-
 <div align="center">
- <p>
-    <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
-    </a>
-    <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href='https://nextjs.org/'>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
-    </a>
-    <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-    <a href='https://git-scm.com/'>
-     <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
- </p>
-
+  <img width="750" height="200" src="https://github.com/ravelyramos/ravelyramos/assets/141534025/537bad7c-1afe-4a68-a802-0cee891fc5c2" />
 </div>
 
+###
 <br>
 
-## 👨🏻‍💼 &nbsp;Contate-me
+<h1 align="left">Olá 👋 Eu sou Ravely Ramos</h1>
 
-<p align="center">
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">💻 Sou Desenvolvedor Front-End;<br><br>🚀 Meu portfólio goocode.com.br ;<br><br>👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas. ;<br><br>📫 Se quiser envie uma mensagem. ravelyramos828@gmail.com</p>
+
+###
+
+<br>
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+</div>
+
+###
+
+<br>
+
+<h2 align="left">👨🏻‍💼 Conecte-se comigo</h2>
+
+###
+
+<p align="left">
  
  <a href="https://www.linkedin.com/in/ravelyramos" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/ravelyramos"/> 
@@ -74,14 +64,9 @@
   <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.goocode.com.br/"/>
  </a>
 
- </p>
-
-<br>
-
-## <img src="gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
+ 
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=ravelyramos&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="ravely stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravelyramos&layout=compact&theme=aura" alt="ravely stats"/>
- </div>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=ravelyramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravelyramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
