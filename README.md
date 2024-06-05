@@ -46,7 +46,7 @@
 
 <br>
 
-<h2 align="left">👨🏻‍💼 Conecte-se comigo</h2>
+<h2 align="left">  Conecte-se comigo</h2>
 
 ###
 
@@ -63,10 +63,15 @@
  <a href="https://www.goocode.com.br/" alt="Portfolio">
   <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.goocode.com.br/"/>
  </a>
+ 
+<br>
+
 
  <h2>Status</h2>
+ 
+<br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ravelyramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravelyramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
