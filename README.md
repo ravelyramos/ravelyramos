@@ -73,5 +73,6 @@
 
 <div align="center">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=RavelyRamos&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="Ravely stats"/>
+  
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavelyRamso&layout=compact&theme=aura" alt="evander stats"/>
  </div>
