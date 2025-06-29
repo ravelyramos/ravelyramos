@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="750" height="200" src="https://www.canva.com/design/DAGrsyLyo0I/RZId_KggaPWcBI4ML_6fBg/view?utm_content=DAGrsyLyo0I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3eed6d4b03"/>
+  <img width="750" height="200" src="https://github.com/user-attachments/assets/7d1fe3e2-4ec4-4684-ba5b-c633ee1b64ef "/>
 </div>
 
 ###
@@ -42,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
 </div>
 
-###
 
 <br>
 
