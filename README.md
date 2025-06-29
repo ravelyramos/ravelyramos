@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="750" height="200" src="https://github.com/ravelyramos/ravelyramos/assets/141534025/537bad7c-1afe-4a68-a802-0cee891fc5c2" />
+  <img width="750" height="200" src="https://www.canva.com/design/DAGrsyLyo0I/RZId_KggaPWcBI4ML_6fBg/view?utm_content=DAGrsyLyo0I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3eed6d4b03"/>
 </div>
 
 ###
