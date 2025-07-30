@@ -1,3 +1,7 @@
+<img width="5000" height="400" alt="How-to-Become-a-Front-End-Developer-in-2020" src="https://github.com/user-attachments/assets/2d2ab7af-9f64-496b-9bbf-20f1493991ae" />
+
+
+
 ## Hi there 👋
 
 <!--
